@@ -2,6 +2,7 @@
 Real-Time Multi-User AI Whiteboard
 
 🗂️ High-Level Architecture
+
 🎨 Frontend (React + Canvas + Chat UI)
 Real-time whiteboard with drawing tools
 
