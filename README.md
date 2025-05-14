@@ -10,7 +10,7 @@ Chat interface (for user & AI messages)
 
 Room code or user auth for session
 
-Live user cursors (optional)
+Live user cursors 
 
 ⚙️ Backend (Node.js + Express + Socket.IO)
 Handle WebSocket connections
@@ -24,7 +24,7 @@ Track room users and sessions
 📦 Database (MongoDB)
 Store chat history and AI messages
 
-Whiteboard snapshots (optional)
+Whiteboard snapshots 
 
 Room/session metadata
 
@@ -46,4 +46,4 @@ Firebase Hosting or Vercel: React frontend
 
 MongoDB Atlas: Cloud DB
 
-Google Cloud Function (optional): Proxy for AI API for security
+Google Cloud Function : Proxy for AI API for security
